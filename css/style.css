@@ -184,10 +184,6 @@ body {
     border-bottom: 1px solid #fff;
 }
 
-.header__menu-item.active {
-    border-bottom: 1px solid #fff;
-}
-
 /*****************   HEADER  */
 
 .header__slider {
